@@ -1,0 +1,8 @@
+{"combination": ["nkjp+wiki-lemmas-all-100-cbow-hs.txt", "lemmatized"], "best_params": {"learning_rate": 0.003356285626801687, "epochs": 13}, "best_value": 0.8448074460029602}
+{"combination": ["nkjp+wiki-lemmas-all-100-cbow-hs.txt", "lemmatized_stopwords"], "best_params": {"learning_rate": 0.0002758477416588787, "epochs": 19}, "best_value": 0.8273045420646667}
+{"combination": ["nkjp+wiki-lemmas-all-300-cbow-hs.txt", "lemmatized"], "best_params": {"learning_rate": 0.0028524674885112874, "epochs": 11}, "best_value": 0.8494749069213867}
+{"combination": ["nkjp+wiki-lemmas-all-300-cbow-hs.txt", "lemmatized_stopwords"], "best_params": {"learning_rate": 0.0064286020006977095, "epochs": 9}, "best_value": 0.8506417870521545}
+{"combination": ["nkjp+wiki-forms-all-100-cbow-hs.txt", "stopwords"], "best_params": {"learning_rate": 0.006814439553126094, "epochs": 13}, "best_value": 0.8483080267906189}
+{"combination": ["nkjp+wiki-forms-all-100-cbow-hs.txt", "text"], "best_params": {"learning_rate": 0.004179216879919491, "epochs": 18}, "best_value": 0.855309247970581}
+{"combination": ["nkjp+wiki-forms-all-300-cbow-hs.txt", "stopwords"], "best_params": {"learning_rate": 0.00021846762474927745, "epochs": 16}, "best_value": 0.855309247970581}
+{"combination": ["nkjp+wiki-forms-all-300-cbow-hs.txt", "text"], "best_params": {"learning_rate": 0.004593297222039278, "epochs": 10}, "best_value": 0.8716452717781067}
